@@ -1,4 +1,4 @@
-#include "raylib.h"
+```#include "raylib.h"
 #include <math.h>
 
 #define SCREEN_W 900
@@ -94,3 +94,4 @@ int main(void)
                 }
                 if (ball.y < 8) {
                     ball.y = 8;
+```
