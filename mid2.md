@@ -44,3 +44,9 @@ SELECT name, year, rating
 FROM games
 WHERE rating = 5;
 ```
+# 4. 예상 실행 결과  
+ID	게임 이름	출시 연도	장르	평점  
+1	Super Mario Bros.	1985	Platform	5  
+2	Tetris	1984	Puzzle	5  
+3	Pac-Man	1980	Arcade	4  
+4	Sonic the Hedgehog	1991	Platform	4  
